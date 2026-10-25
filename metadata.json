@@ -1,0 +1,6 @@
+{
+  "name": "PropShare - WhatsApp Property Link Generator",
+  "description": "Create instant, gorgeous real estate listing showcases with zero database. All details are encoded into unbreakable URL-safe Base64 links for WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
